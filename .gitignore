@@ -1,0 +1,47 @@
+ # Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+
+# Django
+*.log
+*.pot
+*.pyc
+*.db
+*.db-journal
+
+# Virtualenv
+venv/
+env/
+ENV/
+*.egg-info/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Testing
+*.coverage
+nosetests.xml
+coverage.xml
+*.cover
+*.hypothesis/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Miscellaneous
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
